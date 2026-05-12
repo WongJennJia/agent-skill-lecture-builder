@@ -1,0 +1,20 @@
+page:
+  title: "Topic 6: Space (Year 6 KSSR)"
+  badge: "YEAR 6 MATHEMATICS"
+  hero_title: "Topic 6: Space<br>Year 6 KSSR"
+  subtitle: "Angles, regular polygons, interior angles, and geometry problem solving."
+
+seo:
+  title: "Topic 6: Space (Year 6 KSSR)"
+  description: "A Year 6 KSSR mathematics lesson on angles, regular polygons, interior angles, and solving geometry problems."
+  image: "https://deancourse.github.io/agent-skill-lecture-builder/example/assets/og-image.jpg"
+  url: "https://deancourse.github.io/agent-skill-lecture-builder/example/"
+
+quotes:
+  opening:
+    text: "Geometry helps students see that mathematics is not abstract only on paper,<br>but visible in every corner, edge, and shape around them."
+  closing:
+    text: >
+      When students can measure, name, and reason about shapes with confidence,
+      geometry becomes a language for understanding the world.<br><br>
+      Keep looking for angles, polygons, and solids in everyday life.

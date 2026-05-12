@@ -8,7 +8,7 @@
 # 頁面基本設定
 # ---------------------------------------------------
 page:
-  lang: zh-TW
+  lang: en
   favicon: "https://deanlin.net/images/favicon.png"
   title: "課程標題示意 — 從主題介紹到實作應用"
   badge: "課程分類示意 · 主題標籤示意"
@@ -51,8 +51,8 @@ instructor:
       url: "https://github.com/dean9703111"
     # - platform: "LinkedIn"
     #   url: "https://linkedin.com/in/..."
-    # - platform: "Email"
-    #   url: "mailto:example@example.com"
+    - platform: "Email"
+      url: "mailto:programwong31@gmail.com"
 
 # ---------------------------------------------------
 # 引言（opening 出現在講師介紹後、closing 出現在所有章節後）
@@ -81,8 +81,8 @@ quotes:
 # 頁尾
 # ---------------------------------------------------
 footer:
-  cta: "這裡可放頁尾 CTA 示意，例如追蹤社群、加入社群或查看更多相關課程"
-  copyright: "© 可以放自己的名字"
+  cta: "Follow for more math resources"
+  copyright: "© WONG JENN JIA"
   # show_socials: true 會在 footer 重複顯示社群連結
   show_socials: true
 
